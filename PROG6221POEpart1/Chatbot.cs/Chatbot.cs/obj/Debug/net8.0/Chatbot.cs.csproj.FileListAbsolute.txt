@@ -1,0 +1,4 @@
+C:\Users\Student\Desktop\PROG6221POE\Chatbot.cs\Chatbot.cs\obj\Debug\net8.0\Chatbot.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\PROG6221POE\Chatbot.cs\Chatbot.cs\obj\Debug\net8.0\Chatbot.cs.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\PROG6221POE\Chatbot.cs\Chatbot.cs\obj\Debug\net8.0\Chatbot.cs.AssemblyInfo.cs
+C:\Users\Student\Desktop\PROG6221POE\Chatbot.cs\Chatbot.cs\obj\Debug\net8.0\Chatbot.cs.csproj.CoreCompileInputs.cache
